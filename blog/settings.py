@@ -26,7 +26,7 @@ if os.path.exists('env.py'):
     import env
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['8000-idehed-djangonew-ad99fryb1to.ws-eu110.gitpod.io','django--new-882fa2d98c61.herokuapp.herokuapp.com']
 
